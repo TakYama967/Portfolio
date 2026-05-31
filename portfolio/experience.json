@@ -1,0 +1,147 @@
+{
+  "section": "experience",
+  "title": "Experience",
+  "japanese_title": "経歴",
+  "timeline": [
+    {
+      "id": 1,
+      "period": "2022 - Present",
+      "japanese_period": "2022年 - 現在",
+      "company": "TechFlow Solutions",
+      "japanese_company": "テックフローソリューションズ",
+      "position": "Senior Software Engineer",
+      "japanese_position": "シニアソフトウェアエンジニア",
+      "location": "Osaka, Japan",
+      "japanese_location": "東京都",
+      "description": "Leading development of microservices architecture and mentoring junior developers",
+      "japanese_description": "マイクロサービスアーキテクチャの開発をリードし、ジュニア開発者のメンタリングを担当",
+      "key_achievements": [
+        "Reduced system response time by 40% through microservices optimization",
+        "Led team of 5 developers in building scalable e-commerce platform",
+        "Implemented CI/CD pipeline reducing deployment time by 60%",
+        "Mentored 3 junior developers who successfully advanced their careers"
+      ],
+      "japanese_achievements": [
+        "マイクロサービス最適化によりシステム応答時間を40%短縮",
+        "5名の開発者チームを率いてスケーラブルなECプラットフォームを構築",
+        "CI/CDパイプラインを実装し、デプロイ時間を60%短縮",
+        "3名のジュニア開発者をメンタリングし、キャリアアップを支援"
+      ],
+      "technologies": ["Node.js", "React", "Docker", "Kubernetes", "AWS", "PostgreSQL"]
+    },
+    {
+      "id": 2,
+      "period": "2020 - 2022",
+      "japanese_period": "2020年 - 2022年",
+      "company": "Digital Innovations Inc.",
+      "japanese_company": "デジタルイノベーションズ株式会社",
+      "position": "Full-Stack Developer",
+      "japanese_position": "フルスタック開発者",
+      "location": "Osaka, Japan",
+      "japanese_location": "大阪府",
+      "description": "Developed full-stack web applications and mobile-responsive solutions",
+      "japanese_description": "フルスタックWebアプリケーションとモバイル対応ソリューションの開発",
+      "key_achievements": [
+        "Built 15+ client projects with 99.9% uptime",
+        "Developed custom CMS reducing content management time by 50%",
+        "Implemented responsive design for mobile-first approach",
+        "Collaborated with UX team to improve user engagement by 35%"
+      ],
+      "japanese_achievements": [
+        "15以上のクライアントプロジェクトを構築し、99.9%の稼働率を達成",
+        "コンテンツ管理時間を50%短縮するカスタムCMSを開発",
+        "モバイルファーストアプローチのレスポンシブデザインを実装",
+        "UXチームと協力し、ユーザーエンゲージメントを35%向上"
+      ],
+      "technologies": ["Vue.js", "Laravel", "MySQL", "Redis", "Nginx", "Linux"]
+    },
+    {
+      "id": 3,
+      "period": "2019 - 2020",
+      "japanese_period": "2019年 - 2020年",
+      "company": "StartupHub Osaka",
+      "japanese_company": "スタートアップハブ東京",
+      "position": "Frontend Developer",
+      "japanese_position": "フロントエンド開発者",
+      "location": "Osaka, Japan",
+      "japanese_location": "東京都",
+      "description": "Specialized in modern frontend development and user experience optimization",
+      "japanese_description": "モダンフロントエンド開発とユーザーエクスペリエンス最適化に特化",
+      "key_achievements": [
+        "Developed 10+ React applications with modern UI/UX",
+        "Implemented state management solutions improving app performance",
+        "Created reusable component library used across 5 projects",
+        "Optimized bundle size reducing load time by 45%"
+      ],
+      "japanese_achievements": [
+        "モダンなUI/UXで10以上のReactアプリケーションを開発",
+        "アプリパフォーマンスを向上させる状態管理ソリューションを実装",
+        "5つのプロジェクトで使用される再利用可能なコンポーネントライブラリを作成",
+        "バンドルサイズを最適化し、読み込み時間を45%短縮"
+      ],
+      "technologies": ["React", "TypeScript", "Redux", "Sass", "Webpack", "Jest"]
+    },
+    {
+      "id": 4,
+      "period": "2018 - 2019",
+      "japanese_period": "2018年 - 2019年",
+      "company": "WebCraft Solutions",
+      "japanese_company": "ウェブクラフトソリューションズ",
+      "position": "Junior Developer",
+      "japanese_position": "ジュニア開発者",
+      "location": "Kyoto, Japan",
+      "japanese_location": "京都府",
+      "description": "Started career in web development with focus on learning and growth",
+      "japanese_description": "学習と成長に焦点を当ててWeb開発のキャリアを開始",
+      "key_achievements": [
+        "Completed 20+ small to medium web projects",
+        "Learned modern JavaScript frameworks and best practices",
+        "Contributed to open source projects on GitHub",
+        "Received 'Rising Star' award for exceptional performance"
+      ],
+      "japanese_achievements": [
+        "20以上の小中規模Webプロジェクトを完了",
+        "モダンなJavaScriptフレームワークとベストプラクティスを学習",
+        "GitHubでオープンソースプロジェクトに貢献",
+        "優秀なパフォーマンスで「ライジングスター」賞を受賞"
+      ],
+      "technologies": ["HTML5", "CSS3", "JavaScript", "jQuery", "PHP", "MySQL"]
+    }
+  ],
+  "career_highlights": {
+    "total_experience": "5+ years",
+    "japanese_total_experience": "5年以上",
+    "projects_completed": "50+",
+    "japanese_projects_completed": "50以上",
+    "technologies_mastered": "20+",
+    "japanese_technologies_mastered": "20以上",
+    "team_leadership": "3+ years",
+    "japanese_team_leadership": "3年以上"
+  },
+  "specializations": [
+    {
+      "area": "Frontend Development",
+      "japanese_area": "フロントエンド開発",
+      "expertise_level": "Expert",
+      "japanese_expertise_level": "エキスパート"
+    },
+    {
+      "area": "Backend Development",
+      "japanese_area": "バックエンド開発",
+      "expertise_level": "Advanced",
+      "japanese_expertise_level": "上級"
+    },
+    {
+      "area": "DevOps & Cloud",
+      "japanese_area": "DevOps・クラウド",
+      "expertise_level": "Intermediate",
+      "japanese_expertise_level": "中級"
+    },
+    {
+      "area": "Team Leadership",
+      "japanese_area": "チームリーダーシップ",
+      "expertise_level": "Advanced",
+      "japanese_expertise_level": "上級"
+    }
+  ]
+}

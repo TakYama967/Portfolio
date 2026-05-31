@@ -1,0 +1,104 @@
+{
+  "section": "home",
+  "title": "Takumi Yamamoto",
+  "subtitle": "Software Engineer & Full-Stack Developer",
+  "description": "Passionate about creating innovative solutions and bridging technology with Japanese culture",
+  "cta": {
+    "text": "View My Work",
+    "link": "#projects"
+  },
+  "ocean_backgrounds": [
+    {
+      "id": 1,
+      "name": "Deep Blue Serenity",
+      "description": "Calm deep ocean with gentle waves",
+      "image_url": "/hero-bg/1.png",
+      "mood": "serene"
+    },
+    {
+      "id": 2,
+      "name": "Sunset Waves",
+      "description": "Golden hour ocean with warm reflections",
+      "image_url": "/hero-bg/2.png",
+      "mood": "warm"
+    },
+    {
+      "id": 3,
+      "name": "Stormy Depths",
+      "description": "Dynamic ocean with powerful waves",
+      "image_url": "/hero-bg/3.png",
+      "mood": "dynamic"
+    },
+    {
+      "id": 4,
+      "name": "Crystal Clear",
+      "description": "Tropical turquoise waters",
+      "image_url": "/hero-bg/4.png",
+      "mood": "tropical"
+    },
+    {
+      "id": 5,
+      "name": "Misty Horizon",
+      "description": "Foggy ocean morning with mystery",
+      "image_url": "/hero-bg/5.png",
+      "mood": "mysterious"
+    },
+    {
+      "id": 6,
+      "name": "Arctic Waters",
+      "description": "Cool blue-green arctic ocean",
+      "image_url": "/hero-bg/6.png",
+      "mood": "cool"
+    },
+    {
+      "id": 7,
+      "name": "Moonlit Waves",
+      "description": "Night ocean under moonlight",
+      "image_url": "/hero-bg/7.png",
+      "mood": "peaceful"
+    }
+  ],
+  "rotation_settings": {
+    "interval_seconds": 5,
+    "transition_duration": 1.5,
+    "fade_effect": true
+  },
+  "languages": {
+    "japanese": {
+      "title": "たつや くろだ",
+      "subtitle": "ソフトウェアエンジニア・フルスタック開発者",
+      "description": "革新的なソリューションの創造と日本文化とテクノロジーの架け橋に情熱を注いでいます",
+      "cta": {
+        "text": "制作実績を見る",
+        "link": "#projects"
+      }
+    },
+    "english": {
+      "title": "Takumi Yamamoto",
+      "subtitle": "Software Engineer & Full-Stack Developer",
+      "description": "Passionate about creating innovative solutions and bridging technology with Japanese culture",
+      "cta": {
+        "text": "View My Work",
+        "link": "#projects"
+      }
+    },
+    "spanish": {
+      "title": "Takumi Yamamoto",
+      "subtitle": "Ingeniero de Software y Desarrollador Full-Stack",
+      "description": "Apasionado por crear soluciones innovadoras y conectar la tecnología con la cultura japonesa",
+      "cta": {
+        "text": "Ver mi trabajo",
+        "link": "#projects"
+      }
+    },
+    "german": {
+      "title": "Takumi Yamamoto",
+      "subtitle": "Software-Ingenieur & Full-Stack-Entwickler",
+      "description": "Leidenschaft für innovative Lösungen und die Verbindung von Technologie mit japanischer Kultur",
+      "cta": {
+        "text": "Meine Arbeit ansehen",
+        "link": "#projects"
+      }
+    }
+  }
+}
