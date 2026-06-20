@@ -1,4 +1,4 @@
-# 🌊 Tatsuya Kuroda Portfolio
+# 🌊 Takumi Yamamoto Portfolio
 
 A modern, responsive portfolio website built with React, Vite, TypeScript, and Tailwind CSS. Features a beautiful ocean-themed design with Japanese cultural elements and bilingual support.
 
@@ -226,10 +226,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Tatsuya Kuroda**
-- Email: tatsuyakuroda2@gmail.com
-- LinkedIn: [linkedin.com/in/tatsuyakuroda](https://www.linkedin.com/in/kuroda-tatsuya-508276385/)
-- GitHub: [github.com/tatsuyakuroda](https://github.com/Ron114)
+**Takumi Yamamoto**
+- Email: takumiYamamoto361123@gmail.com
+- LinkedIn: [linkedin.com/in/takumi-yamamoto](https://www.linkedin.com/in/kuroda-tatsuya-508276385/)
+- GitHub: [github.com/stealthemoon0331](https://github.com/stealthemoon0331)
 
 ---
 

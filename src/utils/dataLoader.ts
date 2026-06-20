@@ -4,12 +4,9 @@ import aboutData from '../../portfolio/about.json'
 import experienceData from '../../portfolio/experience.json'
 import projectsData from '../../portfolio/projects.json'
 import skillsData from '../../portfolio/skills.json'
-import achievementsData from '../../portfolio/achievements.json'
-import testimonialsData from '../../portfolio/testimonials.json'
 import blogData from '../../portfolio/blog.json'
 import galleryData from '../../portfolio/gallery.json'
 import contactData from '../../portfolio/contact.json'
-import footerData from '../../portfolio/footer.json'
 
 export {
   getLocalizedText,
@@ -26,11 +23,8 @@ export const loadPortfolioData = () => {
     experience: experienceData,
     projects: projectsData,
     skills: skillsData,
-    achievements: achievementsData,
-    testimonials: testimonialsData,
     blog: blogData,
     gallery: galleryData,
     contact: contactData,
-    footer: footerData,
   }
 }

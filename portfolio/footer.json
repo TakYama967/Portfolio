@@ -1,7 +1,7 @@
 {
   "section": "footer",
   "copyright": "© 2025 Takumi Yamamoto. All rights reserved.",
-  "japanese_copyright": "© 2025 たつや くろだ。すべての権利を保有。",
+  "japanese_copyright": "© 2025 Takumi Yamamoto. All rights reserved.",
   "quick_links": {
     "sections": [
       {
@@ -65,20 +65,8 @@
           {
             "text": "Resume",
             "japanese_text": "履歴書",
-            "url": "/resume/tatsuya-kuroda-resume.pdf",
-            "japanese_url": "/resume/tatsuya-kuroda-resume-jp.pdf"
-          },
-          {
-            "text": "Testimonials",
-            "japanese_text": "推薦の言葉",
-            "url": "#testimonials",
-            "japanese_url": "#testimonials"
-          },
-          {
-            "text": "Achievements",
-            "japanese_text": "実績・資格",
-            "url": "#achievements",
-            "japanese_url": "#achievements"
+            "url": "/resume/takumi-yamamoto-resume.pdf",
+            "japanese_url": "/resume/takumi-yamamoto-resume-jp.pdf"
           }
         ]
       },
@@ -135,8 +123,8 @@
     ]
   },
   "contact_info": {
-    "email": "lukas.schneider0808@gmail.com",
-    "japanese_email": "lukas.schneider0808@gmail.com",
+    "email": "takumiYamamoto361123@gmail.com",
+    "japanese_email": "takumiYamamoto361123@gmail.com",
     "phone": "+81 35-472-8961",
     "japanese_phone": "090-1234-5678",
     "location": "Osaka, Japan",

@@ -182,8 +182,8 @@
   },
   "contact_info": {
     "email": {
-      "address": "lukas.schneider0808@gmail.com",
-      "japanese_address": "lukas.schneider0808@gmail.com",
+      "address": "takumiYamamoto361123@gmail.com",
+      "japanese_address": "takumiYamamoto361123@gmail.com",
       "label": "Email",
       "japanese_label": "メール",
       "description": "For project inquiries and general questions",
@@ -224,8 +224,8 @@
       "japanese_platform": "GitHub",
       "url": "https://github.com/stealthemoon0331",
       "japanese_url": "https://github.com/stealthemoon0331",
-      "username": "@tatsuyakuroda",
-      "japanese_username": "@tatsuyakuroda",
+      "username": "Takumi Yamamoto",
+      "japanese_username": "Takumi Yamamoto",
       "description": "Code repositories and open source contributions",
       "japanese_description": "コードリポジトリとオープンソース貢献",
       "icon": "github",
@@ -237,7 +237,7 @@
       "url": "https://www.linkedin.com/in/kuroda-tatsuya-508276385/",
       "japanese_url": "https://www.linkedin.com/in/kuroda-tatsuya-508276385/",
       "username": "Takumi Yamamoto",
-      "japanese_username": "たつや くろだ",
+      "japanese_username": "Takumi Yamamoto",
       "description": "Professional network and career updates",
       "japanese_description": "プロフェッショナルネットワークとキャリア更新",
       "icon": "linkedin",
@@ -300,7 +300,7 @@
   ],
   "testimonials_preview": [
     {
-      "quote": "Tatsuya's ability to bridge Japanese business practices with modern development methodologies is truly remarkable.",
+      "quote": "Takumi Yamamoto's ability to bridge Japanese business practices with modern development methodologies is truly remarkable.",
       "japanese_quote": "達也の日本のビジネス慣行とモダンな開発手法を結びつける能力は本当に素晴らしいです。",
       "author": "Yuki Tanaka, CTO at TechFlow Solutions",
       "japanese_author": "田中ゆき、テックフローソリューションズCTO"

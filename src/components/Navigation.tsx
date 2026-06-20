@@ -18,7 +18,7 @@ const Navigation: React.FC = () => {
     const handleScroll = () => {
       setScrolled(window.scrollY > 50)
 
-      const sections = ['home', 'about', 'experience', 'projects', 'skills', 'achievements', 'testimonials', 'contact']
+      const sections = ['home', 'about', 'experience', 'projects', 'skills', 'contact']
       const scrollPosition = window.scrollY + 100
 
       for (const section of sections) {

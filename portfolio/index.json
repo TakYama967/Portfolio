@@ -1,7 +1,7 @@
 {
   "portfolio": {
     "title": "Takumi Yamamoto Portfolio",
-    "japanese_title": "たつや くろだポートフォリオ",
+    "japanese_title": "Takumi Yamamoto Portfolio",
     "description": "Software Engineer & Full-Stack Developer specializing in modern web technologies and Japanese cultural integration",
     "japanese_description": "モダンなWeb技術と日本文化統合を専門とするソフトウェアエンジニア・フルスタック開発者",
     "version": "2.1.0",
@@ -9,9 +9,9 @@
     "last_updated": "2025-01-15",
     "japanese_last_updated": "2025年1月15日",
     "author": "Takumi Yamamoto",
-    "japanese_author": "たつや くろだ",
-    "email": "lukas.schneider0808@gmail.com",
-    "japanese_email": "lukas.schneider0808@gmail.com",
+    "japanese_author": "Takumi Yamamoto",
+    "email": "takumiYamamoto361123@gmail.com",
+    "japanese_email": "takumiYamamoto361123@gmail.com",
     "location": "Osaka, Japan",
     "japanese_location": "東京都、日本",
     "timezone": "JST (UTC+9)",
@@ -235,14 +235,14 @@
       {
         "text": "Resume",
         "japanese_text": "履歴書",
-        "url": "/resume/tatsuya-kuroda-resume.pdf",
-        "japanese_url": "/resume/tatsuya-kuroda-resume-jp.pdf"
+        "url": "/resume/takumi-yamamoto-resume.pdf",
+        "japanese_url": "/resume/takumi-yamamoto-resume-jp.pdf"
       }
     ]
   },
   "seo": {
     "title": "Takumi Yamamoto - Software Engineer & Full-Stack Developer",
-    "japanese_title": "たつや くろだ - ソフトウェアエンジニア・フルスタック開発者",
+    "japanese_title": "Takumi Yamamoto - ソフトウェアエンジニア・フルスタック開発者",
     "description": "Experienced software engineer specializing in modern web technologies, Japanese cultural integration, and innovative solutions. Based in Osaka, Japan.",
     "japanese_description": "モダンなWeb技術、日本文化統合、革新的なソリューションを専門とする経験豊富なソフトウェアエンジニア。東京在住。",
     "keywords": [
@@ -269,8 +269,8 @@
       "マイクロサービス",
       "TypeScript"
     ],
-    "og_image": "/images/og/tatsuya-kuroda-og.jpg",
-    "japanese_og_image": "/images/og/tatsuya-kuroda-og-jp.jpg",
+    "og_image": "/images/og/Takumi-Yamamoto-og.jpg",
+    "japanese_og_image": "/images/og/Takumi-Yamamoto-og-jp.jpg",
     "twitter_card": "summary_large_image",
     "japanese_twitter_card": "summary_large_image"
   },
@@ -300,7 +300,7 @@
     "next_review_date": "2025-04-15",
     "japanese_next_review_date": "2025年4月15日",
     "content_manager": "Takumi Yamamoto",
-    "japanese_content_manager": "たつや くろだ",
+    "japanese_content_manager": "Takumi Yamamoto",
     "backup_frequency": "Daily",
     "japanese_backup_frequency": "毎日"
   }

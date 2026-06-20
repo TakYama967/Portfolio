@@ -128,50 +128,6 @@ const Projects: React.FC = () => {
         </div>
       </section>
 
-      <section className="section-padding bg-surface-800/30">
-        <div className="container-max">
-          <motion.div
-            variants={fadeUp}
-            initial="hidden"
-            whileInView="visible"
-            viewport={defaultViewport}
-            className="text-center mb-16"
-          >
-            <h2 className="text-3xl sm:text-4xl font-bold text-gradient-cool mb-4">
-              {t('projectCategories')}
-            </h2>
-            <div className="w-20 h-1 bg-gradient-to-r from-ocean-500 to-purple-500 mx-auto rounded-full"></div>
-          </motion.div>
-
-          <motion.div
-            variants={staggerContainer}
-            initial="hidden"
-            whileInView="visible"
-            viewport={defaultViewport}
-            className="grid md:grid-cols-2 lg:grid-cols-3 gap-6"
-          >
-            {projectsData.project_categories.map((category) => (
-              <motion.div
-                key={category.name}
-                variants={fadeUp}
-                whileHover={{ scale: 1.02 }}
-                className="card p-6 text-center"
-              >
-                <h3 className="text-xl font-semibold text-gray-100 mb-2">
-                  {getLocalizedText(category, 'name', language)}
-                </h3>
-                <p className="text-gray-400 mb-4">
-                  {getLocalizedText(category, 'description', language)}
-                </p>
-                <div className="text-2xl font-bold text-ocean-400">
-                  {category.count} {t('projectsCount')}
-                </div>
-              </motion.div>
-            ))}
-          </motion.div>
-        </div>
-      </section>
-
       <AnimatePresence>
         {selectedProject && (
           <motion.div

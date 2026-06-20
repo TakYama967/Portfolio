@@ -537,44 +537,6 @@
       "live_url": "https://jp.magnolia-white.com/"
     }
   ],
-  "project_categories": [
-    {
-      "name": "E-commerce",
-      "japanese_name": "ECサイト",
-      "count": 1,
-      "description": "Online shopping platforms and digital commerce solutions"
-    },
-    {
-      "name": "Productivity",
-      "japanese_name": "生産性ツール",
-      "count": 1,
-      "description": "Tools to enhance workflow and team collaboration"
-    },
-    {
-      "name": "Mobile App",
-      "japanese_name": "モバイルアプリ",
-      "count": 1,
-      "description": "Native and cross-platform mobile applications"
-    },
-    {
-      "name": "Education",
-      "japanese_name": "教育",
-      "count": 1,
-      "description": "Learning platforms and educational technology"
-    },
-    {
-      "name": "Cultural Heritage",
-      "japanese_name": "文化遺産",
-      "count": 1,
-      "description": "Digital preservation and cultural documentation"
-    },
-    {
-      "name": "Developer Tools",
-      "japanese_name": "開発者ツール",
-      "count": 1,
-      "description": "Tools and utilities for software development"
-    }
-  ],
   "project_stats": {
     "total_projects": 6,
     "japanese_total_projects": "6",

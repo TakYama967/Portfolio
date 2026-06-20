@@ -9,10 +9,7 @@ import About from './pages/About'
 import Experience from './pages/Experience'
 import Projects from './pages/Projects'
 import Skills from './pages/Skills'
-import Achievements from './pages/Achievements'
-import Testimonials from './pages/Testimonials'
 import Contact from './pages/Contact'
-import Footer from './components/Footer'
 
 // Context
 import { LanguageProvider } from './contexts/LanguageContext'
@@ -57,18 +54,11 @@ function App() {
           <section id="skills">
             <Skills />
           </section>
-          <section id="achievements">
-            <Achievements />
-          </section>
-          <section id="testimonials">
-            <Testimonials />
-          </section>
           <section id="contact">
             <Contact />
           </section>
         </main>
         
-        <Footer />
         <Toaster 
           position="top-right"
           toastOptions={{

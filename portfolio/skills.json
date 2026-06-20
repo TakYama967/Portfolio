@@ -312,63 +312,6 @@
       ]
     }
   ],
-  "skill_levels": [
-    {
-      "level": "Expert",
-      "japanese_level": "エキスパート",
-      "description": "5+ years experience, can lead projects and mentor others",
-      "japanese_description": "5年以上の経験、プロジェクトをリードし他者をメンターできる",
-      "color": "#10B981",
-      "percentage": 90
-    },
-    {
-      "level": "Advanced",
-      "japanese_level": "上級",
-      "description": "3-4 years experience, can work independently on complex tasks",
-      "japanese_description": "3-4年の経験、複雑なタスクを独立して作業できる",
-      "color": "#3B82F6",
-      "percentage": 75
-    },
-    {
-      "level": "Intermediate",
-      "japanese_level": "中級",
-      "description": "1-2 years experience, can work with guidance on most tasks",
-      "japanese_description": "1-2年の経験、ほとんどのタスクでガイダンスと共に作業できる",
-      "color": "#F59E0B",
-      "percentage": 60
-    },
-    {
-      "level": "Beginner",
-      "japanese_level": "初級",
-      "description": "Less than 1 year experience, learning and growing",
-      "japanese_description": "1年未満の経験、学習と成長中",
-      "color": "#EF4444",
-      "percentage": 30
-    }
-  ],
-  "learning_goals": [
-    {
-      "skill": "Rust",
-      "japanese_skill": "Rust",
-      "reason": "System programming and performance-critical applications",
-      "japanese_reason": "システムプログラミングとパフォーマンス重視のアプリケーション",
-      "target_date": "2024 Q3"
-    },
-    {
-      "skill": "WebAssembly",
-      "japanese_skill": "WebAssembly",
-      "reason": "High-performance web applications",
-      "japanese_reason": "高性能Webアプリケーション",
-      "target_date": "2024 Q4"
-    },
-    {
-      "skill": "Advanced AI/ML",
-      "japanese_skill": "高度なAI/ML",
-      "reason": "Building intelligent applications and automation",
-      "japanese_reason": "インテリジェントアプリケーションと自動化の構築",
-      "target_date": "2025 Q1"
-    }
-  ],
   "certifications": [
     {
       "name": "AWS Cloud Practitioner",
